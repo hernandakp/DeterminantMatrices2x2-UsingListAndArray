@@ -1,9 +1,4 @@
-print("Nama          : Hernanda Khoiriyah Putri")
-print("NIM           : 1306620025")
-print("Mata Kuliah   : Pemrograman Komputer")
-print("Dosen Pengampu: Dewi Muliyati, M.Si., M.Sc.")
-print("Case 1 - Determinant of 2 x 2 Matrices")
-print("-------------------------------------------")
+'Author: hernanda472@gmail.com'
 
 #Matriks ukuran 2*2 dengan NumPy
 import numpy as np
